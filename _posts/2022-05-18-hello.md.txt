@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hi"
-date: YYYY-MM-DD hh:mm:ss -0000
+date: 2022-05-18 12:54:00 -0000
 categories: introduction
 ---
 
