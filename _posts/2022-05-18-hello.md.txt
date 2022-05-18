@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Hi"
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: introduction
+---
+
+Hi, this is a test post :)
